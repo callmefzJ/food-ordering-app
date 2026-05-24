@@ -4,7 +4,7 @@
         "name": "جوجه کبابی",
         "price": 175000,
         "category": "پر سفارش‌ترین ها",
-        "image": "images/roastChicken.png",
+        "image": "images/roastChicken.webp",
         "status": "active"
     },
     {
@@ -12,7 +12,7 @@
         "name": "خوراک دنده کبابی",
         "price": 180000,
         "category": "پر سفارش‌ترین ها",
-        "image": "images/roastbeef.png",
+        "image": "images/roastbeef.webp",
         "status": "active"
     },
     {
@@ -20,7 +20,7 @@
         "name": "خوراک راسته کبابی",
         "price": 160000,
         "category": "پر سفارش‌ترین ها",
-        "image": "images/roastMeat.png",
+        "image": "images/roastMeat.webp",
         "status": "active"
     },
     {
@@ -28,7 +28,7 @@
         "name": "ماهی کبابی",
         "price": 140000,
         "category": "پر سفارش‌ترین ها",
-        "image": "images/grilledFish.png",
+        "image": "images/grilledFish.webp",
         "status": "active"
     },
     {
@@ -44,7 +44,7 @@
         "name": "چیکن برگر",
         "price": 150000,
         "category": "همبرگر",
-        "image": "images/chickenBurger.png",
+        "image": "images/chickenBurger.webp",
         "status": "active"
     },
     {
@@ -52,7 +52,7 @@
         "name": "دوبل برگر",
         "price": 220000,
         "category": "همبرگر",
-        "image": "images/doubleBurger.png",
+        "image": "images/doubleBurger.webp",
         "status": "active"
     },
     {
@@ -84,7 +84,7 @@
         "name": "پیتزا پپرونی",
         "price": 350000,
         "category": "پیتزا",
-        "image": "images/pepperoniPizza.png",
+        "image": "images/pepperoniPizza.webp",
         "status": "active"
     },
     {
@@ -100,7 +100,7 @@
         "name": "پاستا سبزیجات",
         "price": 145000,
         "category": "پاستا",
-        "image": "images/spaghetti.png",
+        "image": "images/spaghetti.webp",
         "status": "active"
     },
     {
@@ -108,7 +108,7 @@
         "name": "پاستا بلونز",
         "price": 170000,
         "category": "پاستا",
-        "image": "images/meatSpaghetti.png",
+        "image": "images/meatSpaghetti.webp",
         "status": "active"
     },
     {
@@ -116,7 +116,7 @@
         "name": "پاستا پستو",
         "price": 150000,
         "category": "پاستا",
-        "image": "images/pestoPasta.png",
+        "image": "images/pestoPasta.webp",
         "status": "active"
     },
     {
@@ -132,7 +132,7 @@
         "name": "لازانیا",
         "price": 150000,
         "category": "پاستا",
-        "image": "images/lasagna.png",
+        "image": "images/lasagna.webp",
         "status": "active"
     },
     {
@@ -140,7 +140,7 @@
         "name": "مرغ سوخاری",
         "price": 140000,
         "category": "سوخاری",
-        "image": "images/fried-chicken.png",
+        "image": "images/fried-chicken.webp",
         "status": "active"
     },
     {
@@ -156,7 +156,7 @@
         "name": "ماهی سوخاری و مخلفات",
         "price": 260000,
         "category": "سوخاری",
-        "image": "images/grilledFish.png",
+        "image": "images/grilledFish.webp",
         "status": "active"
     },
     {
@@ -164,7 +164,7 @@
         "name": "ساندویچ مرغ",
         "price": 80000,
         "category": "ساندویچ",
-        "image": "images/sandwich.png",
+        "image": "images/sandwich.webp",
         "status": "active"
     },
     {
@@ -172,7 +172,7 @@
         "name": "ساندویچ کلاب",
         "price": 60000,
         "category": "ساندویچ",
-        "image": "images/club.png",
+        "image": "images/club.webp",
         "status": "active"
     },
     {
@@ -196,7 +196,7 @@
         "name": "رولت گوشت",
         "price": 200000,
         "category": "ساندویچ",
-        "image": "images/chicken-roll.png",
+        "image": "images/chicken-roll.webp",
         "status": "active"
     },
     {
@@ -244,7 +244,7 @@
         "name": "آبگوشت",
         "price": 250000,
         "category": "غذاهای ایرانی",
-        "image": "images/meat.png",
+        "image": "images/meat.webp",
         "status": "active"
     },
     {
@@ -268,7 +268,7 @@
         "name": "استامبولی",
         "price": 155000,
         "category": "غذاهای ایرانی",
-        "image": "images/ghavareh.png",
+        "image": "images/ghavareh.webp",
         "status": "active"
     },
     {
@@ -292,7 +292,7 @@
         "name": "دلمه",
         "price": 85000,
         "category": "غذاهای ایرانی",
-        "image": "images/dolme.png",
+        "image": "images/dolme.webp",
         "status": "active"
     },
     {
@@ -300,7 +300,7 @@
         "name": "سالاد میگو",
         "price": 135000,
         "category": "سالاد",
-        "image": "images/shrimpsalad.png",
+        "image": "images/shrimpsalad.webp",
         "status": "active"
     },
     {
@@ -316,7 +316,7 @@
         "name": "سالاد فصل",
         "price": 120000,
         "category": "سالاد",
-        "image": "images/simplesalad.png",
+        "image": "images/simplesalad.webp",
         "status": "active"
     },
     {
@@ -356,7 +356,7 @@
         "name": "نوشابه قوطی پپسی",
         "price": 30000,
         "category": "نوشیدنی",
-        "image": "images/pepsican.png",
+        "image": "images/pepsican.webp",
         "status": "active"
     },
     {
@@ -372,7 +372,7 @@
         "name": "ماست",
         "price": 25000,
         "category": "متفرقه",
-        "image": "images/yogurt.png",
+        "image": "images/yogurt.webp",
         "status": "active"
     },
     {
@@ -380,7 +380,7 @@
         "name": "مخلفات",
         "price": 50000,
         "category": "متفرقه",
-        "image": "images/side-dishes.png",
+        "image": "images/side-dishes.webp",
         "status": "active"
     },
     {
