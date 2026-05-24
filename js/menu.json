@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1,
+        "name": "جوجه کبابی",
+        "price": 175000,
+        "category": "پر سفارش‌ترین ها",
+        "image": "images/roastChicken.png",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "خوراک دنده کبابی",
+        "price": 180000,
+        "category": "پر سفارش‌ترین ها",
+        "image": "images/roastbeef.png",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "خوراک راسته کبابی",
+        "price": 160000,
+        "category": "پر سفارش‌ترین ها",
+        "image": "images/roastMeat.png",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "ماهی کبابی",
+        "price": 140000,
+        "category": "پر سفارش‌ترین ها",
+        "image": "images/grilledFish.png",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "name": "همبرگر کلاسیک",
+        "price": 180000,
+        "category": "همبرگر",
+        "image": "images/burger.png",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "چیکن برگر",
+        "price": 150000,
+        "category": "همبرگر",
+        "image": "images/chickenBurger.png",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "name": "دوبل برگر",
+        "price": 220000,
+        "category": "همبرگر",
+        "image": "images/doubleBurger.png",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "name": "برگر ذغالی",
+        "price": 190000,
+        "category": "همبرگر",
+        "image": "images/blackBurger.png",
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "name": "پیتزا مخصوص",
+        "price": 330000,
+        "category": "پیتزا",
+        "image": "images/pizzaThree.png",
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "name": "پیتزا مرغ",
+        "price": 250000,
+        "category": "پیتزا",
+        "image": "images/chickenPizza.png",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "name": "پیتزا پپرونی",
+        "price": 350000,
+        "category": "پیتزا",
+        "image": "images/pepperoniPizza.png",
+        "status": "active"
+    },
+    {
+        "id": 12,
+        "name": "پیتزا سبزیجات",
+        "price": 200000,
+        "category": "پیتزا",
+        "image": "images/pizza.png",
+        "status": "active"
+    },
+     {
+        "id": 13,
+        "name": "پاستا سبزیجات",
+        "price": 145000,
+        "category": "پاستا",
+        "image": "images/spaghetti.png",
+        "status": "active"
+    },
+    {
+        "id": 14,
+        "name": "پاستا بلونز",
+        "price": 170000,
+        "category": "پاستا",
+        "image": "images/meatSpaghetti.png",
+        "status": "active"
+    },
+    {
+        "id": 15,
+        "name": "پاستا پستو",
+        "price": 150000,
+        "category": "پاستا",
+        "image": "images/pestoPasta.png",
+        "status": "active"
+    },
+    {
+        "id": 16,
+        "name": "پاستا آلفردو",
+        "price": 200000,
+        "category": "پاستا",
+        "image": "images/alfredoPasta.png",
+        "status": "active"
+    },
+    {
+        "id": 17,
+        "name": "لازانیا",
+        "price": 150000,
+        "category": "پاستا",
+        "image": "images/lasagna.png",
+        "status": "active"
+    },
+    {
+        "id": 18,
+        "name": "مرغ سوخاری",
+        "price": 140000,
+        "category": "سوخاری",
+        "image": "images/fried-chicken.png",
+        "status": "active"
+    },
+    {
+        "id": 19,
+        "name": "شنیسل",
+        "price": 120000,
+        "category": "سوخاری",
+        "image": "images/schnitzel.png",
+        "status": "active"
+    },
+    {
+        "id": 20,
+        "name": "ماهی سوخاری و مخلفات",
+        "price": 260000,
+        "category": "سوخاری",
+        "image": "images/grilledFish.png",
+        "status": "active"
+    },
+    {
+        "id": 21,
+        "name": "ساندویچ مرغ",
+        "price": 80000,
+        "category": "ساندویچ",
+        "image": "images/sandwich.png",
+        "status": "active"
+    },
+    {
+        "id": 22,
+        "name": "ساندویچ کلاب",
+        "price": 60000,
+        "category": "ساندویچ",
+        "image": "images/club.png",
+        "status": "active"
+    },
+    {
+        "id": 23,
+        "name": "ساندویچ مکزیکی",
+        "price": 155000,
+        "category": "ساندویچ",
+        "image": "images/taco.png",
+        "status": "active"
+    },
+    {
+        "id": 24,
+        "name": "ساندویچ فلافل",
+        "price": 150000,
+        "category": "ساندویچ",
+        "image": "images/falafel.png",
+        "status": "active"
+    },
+    {
+        "id": 25,
+        "name": "رولت گوشت",
+        "price": 200000,
+        "category": "ساندویچ",
+        "image": "images/chicken-roll.png",
+        "status": "active"
+    },
+    {
+        "id": 26,
+        "name": "رولت سوسیس",
+        "price": 160000,
+        "category": "ساندویچ",
+        "image": "images/sausage-roll.png",
+        "status": "active"
+    },
+    {
+        "id": 27,
+        "name": "رولت مرغ",
+        "price": 175000,
+        "category": "ساندویچ",
+        "image": "images/spring-roll.png",
+        "status": "active"
+    },
+    {
+        "id": 28,
+        "name": "چلو جوجه",
+        "price": 225000,
+        "category": "غذاهای ایرانی",
+        "image": "images/chickenRice.png",
+        "status": "active"
+    },
+    {
+        "id": 29,
+        "name": "زرشک پلو با مرغ",
+        "price": 250000,
+        "category": "غذاهای ایرانی",
+        "image": "images/roastchichenrice.png",
+        "status": "active"
+    },
+    {
+        "id": 30,
+        "name": "خورشت کاری",
+        "price": 190000,
+        "category": "غذاهای ایرانی",
+        "image": "images/kare.png",
+        "status": "active"
+    },
+    {
+        "id": 31,
+        "name": "آبگوشت",
+        "price": 250000,
+        "category": "غذاهای ایرانی",
+        "image": "images/meat.png",
+        "status": "active"
+    },
+    {
+        "id": 32,
+        "name": "قرمه سبزی",
+        "price": 210000,
+        "category": "غذاهای ایرانی",
+        "image": "images/ghormesabzi.png",
+        "status": "active"
+    },
+    {
+        "id": 33,
+        "name": "میرزا قاسمی",
+        "price": 150000,
+        "category": "غذاهای ایرانی",
+        "image": "images/mirza.png",
+        "status": "active"
+    },
+    {
+        "id": 34,
+        "name": "استامبولی",
+        "price": 155000,
+        "category": "غذاهای ایرانی",
+        "image": "images/ghavareh.png",
+        "status": "active"
+    },
+    {
+        "id": 35,
+        "name": "فسنجان",
+        "price": 125000,
+        "category": "غذاهای ایرانی",
+        "image": "images/fesenjan.png",
+        "status": "active"
+    },
+    {
+        "id": 36,
+        "name": "خوراک گوشت",
+        "price": 240000,
+        "category": "غذاهای ایرانی",
+        "image": "images/khorak.png",
+        "status": "active"
+    },
+    {
+        "id": 37,
+        "name": "دلمه",
+        "price": 85000,
+        "category": "غذاهای ایرانی",
+        "image": "images/dolme.png",
+        "status": "active"
+    },
+    {
+        "id": 38,
+        "name": "سالاد میگو",
+        "price": 135000,
+        "category": "سالاد",
+        "image": "images/shrimpsalad.png",
+        "status": "active"
+    },
+    {
+        "id": 39,
+        "name": "سالاد سزار",
+        "price": 145000,
+        "category": "سالاد",
+        "image": "images/caesarsalad.png",
+        "status": "active"
+    },
+    {
+        "id": 40,
+        "name": "سالاد فصل",
+        "price": 120000,
+        "category": "سالاد",
+        "image": "images/simplesalad.png",
+        "status": "active"
+    },
+    {
+        "id": 41,
+        "name": "سالاد ماکارونی",
+        "price": 110000,
+        "category": "سالاد",
+        "image": "images/pastasalad.png",
+        "status": "active"
+    },
+    {
+        "id": 42,
+        "name": "لیموناد",
+        "price": 35000,
+        "category": "نوشیدنی",
+        "image": "images/limonade.png",
+        "status": "active"
+    },
+    {
+        "id": 43,
+        "name": "نوشابه بطری کوکاکولا",
+        "price": 30000,
+        "category": "نوشیدنی",
+        "image": "images/blackcola.png",
+        "status": "active"
+    },
+    {
+        "id": 44,
+        "name": "نوشابه قوطی کوکاکولا",
+        "price": 30000,
+        "category": "نوشیدنی",
+        "image": "images/can.png",
+        "status": "active"
+    },
+    {
+        "id": 45,
+        "name": "نوشابه قوطی پپسی",
+        "price": 30000,
+        "category": "نوشیدنی",
+        "image": "images/pepsican.png",
+        "status": "active"
+    },
+    {
+        "id": 46,
+        "name": "سیب زمینی سرخ کرده",
+        "price": 50000,
+        "category": "متفرقه",
+        "image": "images/french-fries.png",
+        "status": "active"
+    },
+    {
+        "id": 47,
+        "name": "ماست",
+        "price": 25000,
+        "category": "متفرقه",
+        "image": "images/yogurt.png",
+        "status": "active"
+    },
+    {
+        "id": 48,
+        "name": "مخلفات",
+        "price": 50000,
+        "category": "متفرقه",
+        "image": "images/side-dishes.png",
+        "status": "active"
+    },
+    {
+        "id": 49,
+        "name": "ماکارونی و پنیر پیتزا",
+        "price": 75000,
+        "category": "متفرقه",
+        "image": "images/cheesepasta.png",
+        "status": "active"
+    }
+]
