@@ -1,6 +1,6 @@
 # 🍔 Food Ordering Website
 
-A simple front-end shopping website built with HTML, CSS and Vanilla JavaScript.
+A responsive food ordering website built with HTML, CSS and Vanilla JavaScript.
 
 🌐 **Live Demo:** [View the live project here](https://callmefzj.github.io/food-ordering-app/)
 
