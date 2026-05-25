@@ -28,36 +28,22 @@ A responsive food ordering website built with HTML, CSS and Vanilla JavaScript.
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```bash
-
 project/
-
 │── index.html
-
 │
-
 ├── js/
-
 │   ├── main.js
-
 │   └── menu.json
-
 │
-
 ├── css/
-
 │   └── style.css
-
 │
-
 ├── images/
-
 │
-
 └── videos/
-
 ```
 
 ## Run
